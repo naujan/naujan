@@ -6,3 +6,5 @@
 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=naujan&hide_rank=true&hide_title=true&show_icons=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=naujan&hide_rank=true&hide_title=true&show_icons=true&theme=transparent)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C0290QJV)
